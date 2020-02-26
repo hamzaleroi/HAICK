@@ -157,9 +157,9 @@
         min-width: 170px;
     }
     .arrows-group-to-the-bottom {
+        left: 10px;
         float: left;
-        left: -12%;
-        width: 20%;
         min-width: 170px;
+        transform: rotate(30deg);
     }
 }
